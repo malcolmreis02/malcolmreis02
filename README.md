@@ -1,0 +1,5 @@
+- 👋 Olá, eu sou Malcolm dos Reis
+- 👀 Estou interessado em aprender mais sobre a programação no que tange aos web sites
+- 🌱 Sou iniciante nesse mundo da programação para aplicações web e tenho, ainda, muito conhecimento para adquirir
+- 💞️ O meu grande desejo, e estou buscando por isso, é fazer parte da equipe de uma grande start-up
+- 📫 Sou do estado de São Paulo, no Brasil
