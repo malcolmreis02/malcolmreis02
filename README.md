@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou Malcolm dos Reis
 - 👀 Faço Estatística na Unicamp (Universidade Estadual de Campinas)
-- 🌱 Por aqui sempre tento colocar em prática a teoria dos assuntos de estatística
-- 📫 Sou do estado de São Paulo, no Brasil
+- 🌱 Aqui você vai ver alguns projetos que fiz (e podem ser divulgados) em algumas disciplinas
+- 📫 Morador de Barão Geraldo, Campinas - SP
 
 <p align="left">
   Você pode entrar em contato comigo através das minhas redes sociais :
